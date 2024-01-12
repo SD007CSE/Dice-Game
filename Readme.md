@@ -38,7 +38,7 @@ The **Dice Game** is a web-based game that simulates the rolling of dice. It has
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/dice-game.git
+    git clone https://github.com/SD007CSE/Dice-Game.git
     ```
 
 2. Open the `dice.html` file in a web browser.
