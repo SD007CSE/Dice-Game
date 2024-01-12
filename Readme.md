@@ -49,14 +49,6 @@ The **Dice Game** is a web-based game that simulates the rolling of dice. It has
 - View the result and see which player wins.
 - Have fun and enjoy the interactive nature of the game.
 
-## Result
- - Case 1: Player 1 wins
-    - ![P1 wins screenshot] (../Results/P1.png)
--  Case 2: Player 2 wins
-    - ![P2 wins screenshot] (../Results/P2.png)
--  Case 3: Draw
-    - ![Draw] (../Results/Draw.png)
-
 ---
 
 Feel free to customize this README file further based on your specific project details or additional information you want to include.
