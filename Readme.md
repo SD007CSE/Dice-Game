@@ -51,11 +51,11 @@ The **Dice Game** is a web-based game that simulates the rolling of dice. It has
 
 ## Result
  - Case 1: Player 1 wins
-    - ![P1 wins screenshot] (Results/P1.png)
+    - ![P1 wins screenshot] (../Results/P1.png)
 -  Case 2: Player 2 wins
-    - ![P2 wins screenshot] (Results/P2.png)
+    - ![P2 wins screenshot] (../Results/P2.png)
 -  Case 3: Draw
-    - ![Draw] (Results/Draw.png)
+    - ![Draw] (../Results/Draw.png)
 
 ---
 
